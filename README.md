@@ -2,3 +2,5 @@
 Repositorio para testes e estudos em Git
 Curso de Python
 Thais Bastos
+
+## Muito bom @Thais
